@@ -52,7 +52,7 @@ RegisterNumber: 24900696
 */
 
 **RTL LOGIC UP COUNTER**
-![image](https://github.com/user-attachments/assets/de8c12da-1923-409a-bf8d-c9c2fe01b57a)
+![image](https://github.com/user-attachments/assets/d19da0c7-4bbf-401e-b48a-358e06d58372)
 
 **TIMING DIAGRAM FOR IP COUNTER**
 ![image](https://github.com/user-attachments/assets/e1401118-69a8-4043-9157-b1758a4090a6)
