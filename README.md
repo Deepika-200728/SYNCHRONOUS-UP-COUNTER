@@ -59,8 +59,7 @@ RegisterNumber: 24900696
 
 **TRUTH TABLE**
 
-![image](https://github.com/user-attachments/assets/dfa2893a-249e-4477-bcc1-f303f7410a30)
-
+![image](https://github.com/user-attachments/assets/5af41f13-41a4-465c-ba0e-349b4434e528)
 
 **RESULTS**
 To implement 4 bit synchronous up counter and validate functionality is verified.
